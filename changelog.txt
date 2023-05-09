@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.36
+Date: 09. 05. 2023
+  Updates:
+    - Added Russian locale for Toxic Biters v1.0.2 (Shadow_Man)
+    - Updated Russian locale for Frost Biters v1.1.4, Explosive Biters v2.0.5 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.35
 Date: 07. 05. 2023
   Updates:
