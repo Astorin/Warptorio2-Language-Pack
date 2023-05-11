@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 11. 05. 2023
+  Updates:
+    - Added Japanese locale for Mining Space Industries II v0.8.1, Frost Biters v1.1.4,
+      Explosive Biters v2.0.5, Rocket Silo Construction v1.3.4, Factorio Crash Site v1.0.2 (YAMATO_Hajime)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.36
 Date: 09. 05. 2023
   Updates:
@@ -16,8 +23,8 @@ Version: 1.1.34
 Date: 05. 05. 2023
   Updates:
     - Updated Russian locale for Armoured Biters v1.1.7, Big Monsters v1.3.1,
-        Explosive Biters v2.0.4, Mining Space Industries II v0.7.1,
-        Planetorio Expansions Planets v1.0.4 (Shadow_Man)
+      Explosive Biters v2.0.4, Mining Space Industries II v0.7.1,
+      Planetorio Expansions Planets v1.0.4 (Shadow_Man)
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.33
