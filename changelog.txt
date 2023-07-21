@@ -1,8 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.3
+Date: 19. 07. 2023
+  Updates:
+    - Updated Russian locale for Warp Drive Machine v0.0.20 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.2.2
 Date: 19. 07. 2023
   Updates:
-    - Added Russian locale for Warp-Drive-Machine v0.0.16, Warptorio2 Lootchest Locator v0.2.0 (Shadow_Man)
+    - Added Russian locale for Warp Drive Machine v0.0.16, Warptorio2 Lootchest Locator v0.2.0 (Shadow_Man)
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.1
