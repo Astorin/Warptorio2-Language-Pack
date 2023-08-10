@@ -3,7 +3,7 @@
   "title": "Mining Space Industries II / Warptorio2 Language Pack",
   "description": "Localizations for Mining Space Industries II, Warptorio2 and relative mods (Rocket Silo Construction, Warptorio2 Expansion, Cold Biters, Explosive Biters, Armoured Biters etc...)\n\nLocales included: Japanese (partial), Russian.",
   "author": "Shadow_Man, Factorio community",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "factorio_version": "1.1",
   "dependencies": [
     "?Mining-Space-Industries-II >= 0.8.0",
@@ -11,12 +11,12 @@
     "?warptorio2 >= 1.3.9",
     "?warptorio2_expansion >= 1.1.82",
     "?planetorio_expansion_planets >= 1.0.1",
-    "?Warp-Drive-Machine >= 0.0.20",
+    "?Warp-Drive-Machine >= 0.1.2",
     "?warptorio2_lootchest_locator >= 0.2.0",
     "?ArmouredBiters >= 1.1.0",
     "?Cold_biters >= 1.1.2",
     "?Explosive_biters >= 2.0.0",
-    "?Toxic_biters >= 1.0.0",
+    "?Toxic_biters >= 1.1.0",
     "?Big-Monsters >= 1.3.0",
     "?factorio-crash-site >= 1.0.0",
     "?Electric-Weapons >= 2.0.0"]
