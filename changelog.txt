@@ -1,4 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.6
+Date: 04. 09. 2023
+  Updates:
+    - Updated Russian locale for Warp Drive Machine v0.1.21 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.2.5
+Date: 26. 08. 2023
+  Updates:
+    - Added Russian locale for Arachnids Faction v1.1.4, Arachnids Enemy v1.0.1 (Shadow_Man)
+    - Updated Russian locale for Warp Drive Machine v0.1.16 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.2.4
 Date: 10. 08. 2023
   Updates:
